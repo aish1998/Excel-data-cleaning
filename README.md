@@ -150,13 +150,7 @@ From now on, I will:
 
 ---
 
-## 📈 Next Steps
 
-- Practice more real-world datasets  
-- Apply similar cleaning techniques using Python (Pandas)  
-- Improve documentation and reproducibility  
-
----
 
 ## 👩‍💻 Author
 
